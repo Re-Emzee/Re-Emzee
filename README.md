@@ -1,5 +1,36 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World)](https://git.io/typing-svg)
+<div style="text-align: center;">
+<pre style="display: inline-block; font-size: 12px; line-height: 14px; text-align: left;">
+<code>
+                      |b
+                       ||
+                       ||,
+                       |'\
+                        |`|
+                        | `|
+                        '| |.
+                         | `L
+                         |  |,
+                         `|  |.                              _,/7
+                          |  `|                       __,---'' /
+                          |   `|              __,---'"   ..- ./
+                          ||   |      _.--=/'',--=-,,  -    ,/
+                          `|   \,/'''`\,     /'   >  \     /'
+                           | ,/'  `. .  `\ ,/'   / \  \   /'
+                   ___,----Y-'      Y     7'   .'.' `\ \ /'
+               _-/''        `\.     .   ,/'    /.'    `\\ 
+           _,-''          ---  \    `  /'    ./.'   __-' "
+        _/''     .--            `\    /'     /,'_--'
+     ,/''  ..                     `"\_     ./ /='etb
+ .,/'                             .--"\    / / 
+<------------------,_____      ,/~'  \ | ./ .'
+                        `"""""""      `|_/\ /
+                                        '  '
+</code>
+</pre>
+</div>
 
+  
 ## About Me:
 - Located In Western Canada
 - Studying Computer Engineering at the University Of British Columbia
@@ -32,36 +63,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </p>
-<div style="text-align: center;">
-<pre style="display: inline-block; font-size: 12px; line-height: 14px; text-align: left;">
-<code>
-                      |b
-                       ||
-                       ||,
-                       |'\
-                        |`|
-                        | `|
-                        '| |.
-                         | `L
-                         |  |,
-                         `|  |.                              _,/7
-                          |  `|                       __,---'' /
-                          |   `|              __,---'"   ..- ./
-                          ||   |      _.--=/'',--=-,,  -    ,/
-                          `|   \,/'''`\,     /'   >  \     /'
-                           | ,/'  `. .  `\ ,/'   / \  \   /'
-                   ___,----Y-'      Y     7'   .'.' `\ \ /'
-               _-/''        `\.     .   ,/'    /.'    `\\ 
-           _,-''          ---  \    `  /'    ./.'   __-' "
-        _/''     .--            `\    /'     /,'_--'
-     ,/''  ..                     `"\_     ./ /='etb
- .,/'                             .--"\    / / 
-<------------------,_____      ,/~'  \ | ./ .'
-                        `"""""""      `|_/\ /
-                                        '  '
-</code>
-</pre>
-</div>
+
 
 
 
