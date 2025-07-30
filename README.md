@@ -2,17 +2,17 @@
 <div style="text-align: center;">
 <pre style="display: inline-block; font-size: 12px; line-height: 14px; text-align: left;">
 <code>
-                      |b                                                       About Me:
-                       ||                                                      - Located In Western Canada
-                       ||,                                                     - Studying Computer Engineering at the University Of British Columbia
-                       |'\                                                     - Currently developing firmware for UBC Sailbot's autonomous research vessel
-                        |`|                                                    - Beginner guitarist, no singing capabilities
-                        | `|
-                        '| |.
-                         | `L
-                         |  |,
+                      |\                                                       About Me:
+                       ||                                                      
+                       ||,                                                     - Located In Western Canada
+                       |'\                                                       
+                        |`|                                                    - Studying Computer Engineering at 
+                        | `|                                                     the University Of British Columbia
+                        '| |.                                                 
+                         | `L                                                  - Currently developing firmware for 
+                         |  |,                                                   UBC Sailbot's autonomous research vessel
                          `|  |.                              _,/7
-                          |  `|                       __,---'' /
+                          |  `|                       __,---'' /               - Beginner guitarist, no singing capabilities
                           |   `|              __,---'"   ..- ./
                           ||   |      _.--=/'',--=-,,  -    ,/
                           `|   \,/'''`\,     /'   >  \     /'
@@ -21,7 +21,7 @@
                _-/''        `\.     .   ,/'    /.'    `\\ 
            _,-''          ---  \    `  /'    ./.'   __-' "
         _/''     .--            `\    /'     /,'_--'
-     ,/''  ..                     `"\_     ./ /='etb
+     ,/''  ..                     `"\_     ./ /='
  .,/'                             .--"\    / / 
 <------------------,_____      ,/~'  \ | ./ .'
                         `"""""""      `|_/\ /
