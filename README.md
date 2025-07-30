@@ -2,11 +2,11 @@
 <div style="text-align: center;">
 <pre style="display: inline-block; font-size: 12px; line-height: 14px; text-align: left;">
 <code>
-                      |b
-                       ||
-                       ||,
-                       |'\
-                        |`|
+                      |b                                                       About Me:
+                       ||                                                      - Located In Western Canada
+                       ||,                                                     - Studying Computer Engineering at the University Of British Columbia
+                       |'\                                                     - Currently developing firmware for UBC Sailbot's autonomous research vessel
+                        |`|                                                    - Beginner guitarist, no singing capabilities
                         | `|
                         '| |.
                          | `L
@@ -29,13 +29,6 @@
 </code>
 </pre>
 </div>
-
-  
-## About Me:
-- Located In Western Canada
-- Studying Computer Engineering at the University Of British Columbia
-- Currently developing firmware for UBC Sailbot's autonomous research vessel
-- Beginner guitarist, no singing capabilities
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-emzee&layout=compact&langs_count=8&card_width=1000&theme=nord" />
@@ -69,7 +62,11 @@
 
 <!--
 **Re-Emzee/Re-Emzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## About Me:
+- Located In Western Canada
+- Studying Computer Engineering at the University Of British Columbia
+- Currently developing firmware for UBC Sailbot's autonomous research vessel
+- Beginner guitarist, no singing capabilities
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
