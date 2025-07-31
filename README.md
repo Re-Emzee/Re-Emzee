@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=FFFFFF&width=435&lines=Hello+World)](https://git.io/typing-svg)
 <div style="text-align: center;">
-<pre style="display: inline-block; font-size: 12px; line-height: 14px; text-align: left;">
+<pre style="display: inline-block; font-size: 12px; line-height: 12px; text-align: left;">
 <code>
                       |\                                                       About Me:
                        ||                                                      
@@ -13,25 +13,25 @@
                          |  |,                                                   UBC Sailbot's autonomous research vessel
                          `|  |.                              _,/7
                           |  `|                       __,---'' /               - Beginner guitarist, no singing capabilities
-                          |   `|              __,---'"   ..- ./
-                          ||   |      _.--=/'',--=-,,  -    ,/
-                          `|   \,/'''`\,     /'   >  \     /'
-                           | ,/'  `. .  `\ ,/'   / \  \   /'
-                   ___,----Y-'      Y     7'   .'.' `\ \ /'
-               _-/''        `\.     .   ,/'    /.'    `\\ 
-           _,-''          ---  \    `  /'    ./.'   __-' "
-        _/''     .--            `\    /'     /,'_--'
-     ,/''  ..                     `"\_     ./ /='
- .,/'                             .--"\    / / 
-<------------------,_____      ,/~'  \ | ./ .'
-                        `"""""""      `|_/\ /
-                                        '  '
+                          |   `|              __,---'"   ..- ./                
+                          ||   |      _.--=/'',--=-,,  -    ,/                 
+                          `|   \,/'''`\,     /'   >  \     /'                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀ ⠀⠀
+                           | ,/'  `. .  `\ ,/'   / \  \   /'                  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀    ⠀
+                   ___,----Y-'      Y     7'   .'.' `\ \ /'                   ⠀⠀⠀⠀⠀⠀⠀   ⣠⠴⠒⠋⢉⡝⠲⢦⡀⠀⠀⠀⠀   
+               _-/''        `\.     .   ,/'    /.'    `\\                       ⠀⠀⠀⠀⢀⡴⠚⢡⣤⣤⣴⣾⣷⣷⣨⢷⣀⡀⠀⠀⠀⠀
+           _,-''          ---  \    `  /'    ./.'   __-' "                    ⠀⢀⣠⠴⠋⠀⠀⠘⣟⡛⡽⡹⣫⣿⣴⣤⠿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+        _/''     .--            `\    /'     /,'_--'                            ⠈⠉⠁⢰⡦⡄⠀⣤⠌⣷⣷⣷⢣⠟⠛⠻⣼⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠
+     ,/''  ..                     `"\_     ./ /='                              ⢰⣾⣶⣦⢿⣭⣆⡻⣿⣿⣿⣻⣸⡀⠀⠃⠿⠷⠂⠀⠀⠀⠀⠀⠀⠀⠀⢀⠔⠁
+ .,/'                             .--"\    / /                                 ⢸⣿⢿⣿⣎⢿⢿⣿⡿⠛⠛⠳⣿⣧⡀⠰⣿⠂⠀⠀⠀⠀⠀⠀⠀⣠⠖⠁⢀⠾
+<------------------,_____      ,/~'  \ | ./ .'                                  ⠀⠙⢿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠙⠿⣦⣄⣀⡀⠀⣀⣀⣠⠴⠚⣁⡠⣾⣯⢟
+                        `"""""""      `|_/\ /                                  ⠀⠠⣄⣀⣀⡀⠲⡄⠰⠒⠃⡴⣶⣦⡐⢄⣯⣍⡛⠛⠉⢉⡀⢀⣩⠵⠶⠛⡵⢛
+                                        '  '                                  ⠀⣤⣾⠛⣟⣹⣦⣒⣢⢿⣾⣧⡸⢙⠿⣶⣷⣬⣊⣳⣿⣽⣟⡟⠛⣋⣒⣓⣒⣪
 </code>
 </pre>
 </div>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-emzee&layout=compact&langs_count=8&card_width=1000&theme=nord" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=re-emzee&layout=compact&langs_count=8&card_width=1000&theme=github_dark_dimmed" />
 </a>
 
 <p align="justify">
